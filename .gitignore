@@ -11,3 +11,7 @@ pyvenv.cfg
 # store folder mac
 .DS_Store
 
+# Yolo
+runs/
+
+share/
