@@ -1,0 +1,12 @@
+#  Python venv
+venv/
+bin/
+include/
+lib/
+
+# vscode 
+.vscode/
+
+# store folder mac
+.DS_Store
+
