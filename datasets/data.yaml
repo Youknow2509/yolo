@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Jerry', 'Tom']
+
+roboflow:
+  workspace: snakes-sgish
+  project: tom-jerry-oyn6k
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/snakes-sgish/tom-jerry-oyn6k/dataset/2
