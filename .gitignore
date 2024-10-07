@@ -3,6 +3,7 @@ venv/
 bin/
 include/
 lib/
+pyvenv.cfg
 
 # vscode 
 .vscode/
